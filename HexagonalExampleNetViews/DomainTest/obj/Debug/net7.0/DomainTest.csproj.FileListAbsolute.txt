@@ -1,0 +1,6 @@
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\DomainTest\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\DomainTest\obj\Debug\net7.0\DomainTest.csproj.AssemblyReference.cache
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\DomainTest\obj\Debug\net7.0\DomainTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\DomainTest\obj\Debug\net7.0\DomainTest.AssemblyInfoInputs.cache
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\DomainTest\obj\Debug\net7.0\DomainTest.AssemblyInfo.cs
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\DomainTest\obj\Debug\net7.0\DomainTest.csproj.CoreCompileInputs.cache

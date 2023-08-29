@@ -1,0 +1,6 @@
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,4 @@
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\ocp\ProyectosPersonales\HexagonalApiux\HexagonalExampleNetViews\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
