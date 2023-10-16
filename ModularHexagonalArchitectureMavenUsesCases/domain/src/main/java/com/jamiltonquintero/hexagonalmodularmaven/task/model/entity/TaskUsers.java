@@ -12,6 +12,6 @@ import java.util.List;
 @Getter
 public class TaskUsers {
 
-    List<User> users;
+    private List<User> users;
 
 }

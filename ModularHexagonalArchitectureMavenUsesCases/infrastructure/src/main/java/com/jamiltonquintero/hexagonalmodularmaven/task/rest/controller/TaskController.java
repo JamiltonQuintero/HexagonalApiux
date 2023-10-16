@@ -17,6 +17,7 @@ public class TaskController {
     private final TaskCreation taskCreation;
     private final TaskDeletion taskDeletion;
     private final TaskDisplay taskDisplay;
+
     private final TaskModification taskModification;
 
     public TaskController(TaskCreation taskCreation, TaskDeletion taskDeletion, TaskDisplay taskDisplay, TaskModification taskModification) {

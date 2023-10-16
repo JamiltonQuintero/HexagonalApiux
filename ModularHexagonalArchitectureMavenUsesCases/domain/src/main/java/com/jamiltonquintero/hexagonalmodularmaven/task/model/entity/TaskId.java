@@ -8,5 +8,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Getter
 public class TaskId {
-    Long id;
+    private Long id;
 }

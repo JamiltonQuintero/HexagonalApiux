@@ -26,6 +26,7 @@ public class TaskManagementService implements TaskCreation, TaskDeletion, TaskDi
     private final TaskRepository taskRepository;
     private final TaskSuperComplexService taskSuperComplexService;
     private final TaskDtoMapper taskDtoMapper;
+    private OpenIaCliente openIaCliente;
 
     public TaskManagementService(TaskDao taskDao, TaskRepository taskRepository, TaskSuperComplexService taskSuperComplexService, TaskDtoMapper taskDtoMapper) {
         this.taskDao = taskDao;
@@ -41,6 +42,8 @@ public class TaskManagementService implements TaskCreation, TaskDeletion, TaskDi
         if(calculatedTime > createCommand.getTimeRequiredToComplete()){
             throw new TaskException("Super complex exception");
         }
+
+        taskDao.generarAudioRecomendacion();
 
         var taskToCreate = new Task()
                 .requestToCreate(createCommand);

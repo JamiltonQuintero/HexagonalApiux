@@ -1,14 +1,14 @@
 package com.jamiltonquintero.hexagonalmodularmaven.task.model.entity;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 
-@AllArgsConstructor
-@NoArgsConstructor
 @Getter
 public class TaskTimeRequiredToComplete {
 
-    int timeRequiredToComplete;
+    private int timeRequiredToComplete;
 
+    public TaskTimeRequiredToComplete(int timeRequiredToComplete) {
+
+        this.timeRequiredToComplete = timeRequiredToComplete;
+    }
 }

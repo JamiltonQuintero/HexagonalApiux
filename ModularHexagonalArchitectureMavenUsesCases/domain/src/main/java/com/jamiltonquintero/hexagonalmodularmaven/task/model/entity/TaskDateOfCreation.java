@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 @Getter
 public class TaskDateOfCreation {
 
-    LocalDateTime dateOfCreation;
+    private LocalDateTime dateOfCreation;
 
     public TaskDateOfCreation setDateOfCreationDefaultValue() {
         this.dateOfCreation = LocalDateTime.now();

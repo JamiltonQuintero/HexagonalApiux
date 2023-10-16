@@ -22,6 +22,7 @@ import java.util.stream.Collectors;
 @Service
 public class UserManagementService implements UserCreation, UserDeletion, UserDisplay, UserModification {
 
+
     private final UserDao userDao;
     private final TaskDao taskDao;
     private final UserRepository userRepository;

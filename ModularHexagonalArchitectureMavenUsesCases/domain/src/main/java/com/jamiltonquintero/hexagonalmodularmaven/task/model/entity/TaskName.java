@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @Getter
 public class TaskName {
     public static final int MAXIMUM_ALLOW_LETTERS = 100;
-    String name;
+    private String name;
 
     public TaskName(String name) {
         toValidName(name);

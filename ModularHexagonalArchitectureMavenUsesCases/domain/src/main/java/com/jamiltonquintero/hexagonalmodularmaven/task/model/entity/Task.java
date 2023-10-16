@@ -14,7 +14,6 @@ import java.util.List;
 @Getter
 public class Task {
 
-    private static final boolean COMPLETED_DEFAULT_VALUE = false;
     private TaskId id;
     private TaskName name;
     private TaskDescription description;
